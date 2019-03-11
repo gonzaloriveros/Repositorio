@@ -1,0 +1,40 @@
+1  pip3 install numpy
+    2  pip3 install matplotlib
+    3  pip3 install matplotlib
+    4  pip3 install matplotlib
+    5  pip install jupyter
+    6  pip3 install jupyter
+    7  python
+    8  jupyter notebook
+    9  python3 -m pip install --upgrade pip
+   10  pip3 install numpy
+   11  jupyter notebook
+   12  git config --global user.name "Gonzalo Riveros"
+   13  git config --global user.email "<giriveros@uc.cl>"
+   14  git --version
+   15  git -v
+   16  git -version
+   17  git --version
+   18  git --list
+   19  git config --list
+   20  cd Desktop/
+   21  git clone https://github.com/gonzaloriveros/L0
+   22  git remote add origin https://github.com/gonzaloriveros/L0.git
+   23  git push -u origin master
+   24  pwd
+   25  git remote add origin https://github.com/gonzaloriveros/Repositorio.git
+   26  cd L0/
+   27  git remote add origin https://github.com/gonzaloriveros/Repositorio.git
+   28  git add *
+   29  git add *
+   30  git init
+   31  git add *
+   32  git commit -m "first commit"
+   33  git push
+   34  git remote add origin https://github.com/gonzaloriveros/Repositorio.git
+   35  git add *
+   36  git commit -m "first"
+   37  git push
+   38  git push -u origin master
+   39  git pull
+   40  history
